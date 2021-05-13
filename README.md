@@ -14,7 +14,7 @@ will be learning about these methods in the next few lessons.
 
 ## Why Use JavaScript's Iterator Methods?
 
-Imagine that we have a collection of Flatbook user objects in an array:
+Imagine that we have a collection of Axibook user objects in an array:
 
 ```js
 const users = [
